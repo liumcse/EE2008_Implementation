@@ -12,4 +12,4 @@ Note that all algorithms are written in C99 standard, except for those in Graph 
 
 For each section, there will likely be a client.c which contains the main function (except for the Graph, there are probably multiple main functions). For Sortong & Priority Queue, main function has been integrated into each single file.
 
-Also note that I DONOT OWN the visualization.c in BST, which helps visualize a Binary Tree. Copyright information is added into the source code.
+Also note that I DONOT OWN the visualization.c in BST, which helps visualize a Binary Tree. Copyright information is shown in the source code.
