@@ -2,7 +2,6 @@
  * Created by LiuMingyu on 6/3/17.
  */
 public class Sorting {
-
     // My attempt
     private static void merge(int[] a, int lo, int mid, int hi) {
         int i = lo;

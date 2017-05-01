@@ -8,6 +8,8 @@ int main() {
 	Countingsort(X, Y, 858);
 	int i;
 	for (i = 0; i < 9; i++) printf("%d ", Y[i]);
+
+	return 0;
 }
 
 void Countingsort(int *A, int *B, int k) {

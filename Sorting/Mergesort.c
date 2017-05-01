@@ -12,6 +12,8 @@ int main() {
 	// merge(X, 0, 4, 8);
 	int i;
 	for (i = 0; i < 9; i++) printf("%d ", X[i]);
+
+	return 0;
 }
 
 void Mergesort(int *A, int i, int j) {

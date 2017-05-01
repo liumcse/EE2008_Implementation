@@ -28,4 +28,6 @@ int main() {
 
 	printf("After balance:\n");
 	print_ascii_tree(root);
+
+	return 0;
 }

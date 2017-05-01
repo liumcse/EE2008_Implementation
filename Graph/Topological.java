@@ -2,7 +2,6 @@
  * Created by LiuMingyu on 8/3/17.
  */
 public class Topological {
-
     private Iterable<Integer> order;    // topological order (use reversePost order)
 
     public Topological(Digraph G) {

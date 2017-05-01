@@ -52,6 +52,7 @@ int main() {
 		printf("%d\t", value[i]);
 	}
 
+	return 0;
 }
 
 int Qsize() {
