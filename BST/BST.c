@@ -2,12 +2,12 @@
 #include "BST.h"
 
 void insertNode(Tree **node, int data) {
-	Tree *temp = malloc(sizeof(Tree));
-	temp->item = data;
-	temp->left = NULL;
-	temp->right = NULL;
 
 	if (*node == NULL) {
+		Tree *temp = malloc(sizeof(Tree));
+		temp->item = data;
+		temp->left = NULL;
+		temp->right = NULL;
 		*node = temp;
 		return;
 	}
