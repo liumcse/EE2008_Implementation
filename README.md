@@ -15,4 +15,4 @@ For each section, there is likely to be a client.c which contains the main funct
 
 Also note that I DONOT OWN the `visualization.c` in BST, which helps visualize a Binary Tree (very awesome!). Copyright information is included in the source code.
 
-I received A+ for the overal grade.
+A few days after I published this repo, I received overal grade A+ for this course.
